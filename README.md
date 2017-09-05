@@ -7,8 +7,8 @@ Clickstream analysis, buying patterns in ecommerce, Fraud Detection, Machine lea
 Wide variety of data supported
 RDBMS, NOSQL, EDW, HADOOP
 
-1. Elastic MapReduce.
-2. Redshift.
+1. Elastic MapReduce.(Amazon's implementation of Hadoop, Highly integrated with S3, interactive command line access via SSH)
+2. Redshift.(Massively parallel processing, cloumn store data warehouse, petabyte scale, uses common relational, SQL technology,       Integrated with s3 and DynamoDB).
 3. DynamoDb.
 4. Data Pipleline.
 5. S3.
