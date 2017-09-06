@@ -23,7 +23,7 @@ Big Data and Nosql are interrelated(Consistency not an issue, do bulk read opera
 What is Hadoop?
 combines two things 1. processing engine (that implements a specific data processing algorithm called map reduce) along with distributed file system.
 
-Lets see how all of these componenets work together:
+Lets see how all of these components work together:
 
 
 
