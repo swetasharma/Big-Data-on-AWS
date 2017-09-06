@@ -18,6 +18,7 @@ RDBMS, NOSQL, EDW, HADOOP
 CAP Theorem:
 Relational: Consistency, Partition Tolerance.
 NoSql: Availability, Partition Tolerance.
+Big Data and Nosql are interrelated(Consistency not an issue, do bulk read operations very very quickly).
 
 Lets see how all of these componenets work together:
 
