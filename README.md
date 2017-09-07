@@ -31,7 +31,7 @@ The Hadoop Stack:
 2. Database: (NoSql HBase, hbase tables are HDFS files ..please understand..which means that hbase tables can be used the inout for mapreduce jobs or in fact the output of the map reduce jobs can create new Hbase tables).
 1. Hadoop: (MapReduce, HDFS).
 
-A MapReduce example: (Remember generating series of key value pair is call map, we are simply reading in input files and creating output files compatible with HDFS because it is write once file system.)
+A MapReduce example: (Remember generating series of key value pair is call map, we are simply reading in input files and creating output files (compatible with HDFS because it is write once file system)).
 
 EMR Job Flows
 
